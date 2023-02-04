@@ -1,0 +1,5 @@
+buatlah sebuah program dimana program tersebut memiliki panjang baris 3,panjang kolom 4 gunakan matrik tersebut untuk menyimpan data mahasiswa (nama dan nimnya)
+
+buatlah fitur pencarian berdasarkan nama ,nim,lalu munculkan hasilnya
+
+getline(cin, nama); mengambil string dengan spasi

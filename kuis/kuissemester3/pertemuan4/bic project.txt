@@ -1,0 +1,6 @@
+big project
+struct = 
+pencarian = biner/sekuensial
+pengurutan = bubble short/selechan sort
+cursor
+stack
